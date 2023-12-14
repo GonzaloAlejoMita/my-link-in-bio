@@ -12,7 +12,7 @@ This project is an extension to my website and is used in the description of all
 
 ## Author
 
-- [@harmonie-durrant](https://www.github.com/harmonie-durrant)
+- [Gonzalo](https://www.github.com/GonzaloAlejoMita)
 
 
 ## Deployment
